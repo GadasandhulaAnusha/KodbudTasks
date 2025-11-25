@@ -1,0 +1,102 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+#header
+{
+   border: 1px solid red;
+   border-color: red;
+   display: flex;
+   justify-content:space-around;
+   height: 70px;
+   padding: 30px 30px;
+   background-image: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjgwMC1teW50LTI1LmpwZw.jpg);
+}
+
+nav
+{
+width: 500px;
+height: 70px;
+display: flex;
+justify-content:space-around;
+margin: right -50px;;
+}
+
+nav>a
+{
+text-decoration-line: none;
+}
+
+#body1,#body2,#body3,#body4
+{
+    height: 550px;
+    border:1px solid red;
+}
+
+#body1
+{
+    background-image: url(https://png.pngtree.com/background/20210716/original/pngtree-memphis-playful-abstract-portfolio-pink-picture-image_1347362.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#body2
+{
+    background-image: url(https://png.pngtree.com/background/20210716/original/pngtree-abstract-memphis-playful-portfolio-pink-picture-image_1347360.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#body3
+{
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20210324/pngtree-abstract-playful-portfolio-pink-memphis-image_593415.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#body4
+{
+    background-image: url(https://image.slidesdocs.com/responsive-images/background/irregular-memphis-playful-abstract-portfolio-pink-fluid-powerpoint-background_62bc5b7b85__960_540.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#bb1
+{
+    width: 700px;
+    margin-top: 250px;
+    margin-left: 20px;
+}
+
+#bb2
+{
+   width: 700px;
+   margin-top: 80px;
+   margin-left: 250px;
+}
+
+#bb3
+{
+   width: 700px;
+   margin-top: 80px;
+   margin-left: 450px;
+}
+
+#bb4
+{
+   width: 500px;
+   margin-top: 150px;
+   margin-left: 100px;
+}
+
+#bb5
+{ 
+   width: 500px;
+   margin-top: -210px;
+   margin-left: 700px;
+}
+
