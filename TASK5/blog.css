@@ -1,0 +1,67 @@
+body
+{
+    margin-left: 280px;
+    width: 750px;
+    background-color: #fffaf0;
+}
+#header
+{
+    border:2px solid maroon;
+    background-color: #8B4513; /* Saddle brown */
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+#header>h1
+{
+    text-align: center;
+}
+#body1:hover,#body2:hover,#body3:hover,#body4:hover,#body5:hover
+{
+  border:2px solid green;
+  height: 450px;
+  background-color: white;
+    transform: translateY(-5px);
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+#bb1,#bb2,#bb3,#bb4,#bb5
+{
+  border: 2px solid gainsboro;
+  margin-top: -20px;
+  height: 180px;
+  line-height: 20px;
+  border-radius: 10px;
+}
+
+#body1>img
+{
+  height: 150px;
+  width: 150px;
+  border-radius: 20px;
+}
+#body2>img
+{
+  height: 150px;
+  width: 150px;
+  border-radius: 20px;
+}
+#body3>img
+{
+  height: 150px;
+  width: 150px;
+  border-radius: 20px;
+}
+#body4>img
+{
+  height: 150px;
+  width: 150px;
+  border-radius: 20px;
+}
+#body5>img
+{
+  height: 150px;
+  width: 150px;
+  border-radius: 20px;
+}
