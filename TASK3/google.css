@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+#header
+{
+    margin-top: 20px;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: flex-start;
+}
+
+#header1
+{
+    margin-left: -800px;
+    display: flex;
+    width: 100px;
+    justify-content: space-around;
+}
+
+#header1>a,nav>a
+{
+    font-size: 11px;
+    text-decoration-line: none;
+    color: black;
+}
+
+nav
+{
+    margin-right: -800px;
+}
+#i1
+{
+    /* margin-top: 15px; */
+    height: 20px;
+    width: 25px;
+}
+#i2
+{
+    height: 10px;
+    width: 10px;
+}
+
+#body1
+{
+    border:2px solid palevioletred;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 90px;
+}
+
+#body1>img
+{
+    border:2px solid blueviolet;
+    height: 70px;
+    width: 210px;
+}
+
+input
+{
+    border:2px solid green;
+    width: 500px;
+    margin-left: 400px;
+    border-radius: 20px;
+    height: 35px;
+    border-color:none;
+    border-width: 1px;
+}
+
+#mag
+{
+    border: 2px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -28px;
+    width: 30px;
+    margin-left: 410px;
+}
+
+#mic
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -20px;
+    width: 30px;
+    margin-left: 750px;
+}
+
+#cam
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -20px;
+    width: 30px;
+    margin-left: 800px;
+}
+
+#img1
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -22px;
+    height: 30px;
+    width: 30px;
+    margin-left: 785px;
+
+}
+
+#img2
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -35px;
+    height: 45px;
+    width: 80px;
+    margin-left: 810px;
+     
+
+}
+
+#b1
+{
+   margin-left: 530px; 
+   padding: 3px;
+}
+
+#b2
+{
+   /* margin-left: 550px;  */
+   padding: 3px;
+}
+#dd1
+{
+    margin-left: 480px;
+    font-size:x-small;
+}
+#dd1>a
+{
+ font-size: x-small;
+ text-decoration-line: none;
+}
+#foot1
+{
+    background-color: #dadce0;
+    height: 30px;
+    font-size:smaller;
+    margin-top: 15px;
+}
